@@ -1,11 +1,3 @@
-echo "# Turtle_dance" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/sarahgetter/Turtle_dance.git
-git push -u origin main
-
 from turtle import *
 
 def stop():
